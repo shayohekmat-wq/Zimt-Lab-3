@@ -18,3 +18,7 @@
 
 ## Projektkontext
 **Lab 3:** Aktueller Scope enthält keinen freigegebenen konkreten Produktbrief. Keine Features, minSdk, App-ID oder Android-Stack erfinden. Zulässige unabhängige Arbeit: Governance, schlanke Queue, vorhandene Struktur und echte Nachweise; Produktimplementierung benötigt autorisierte Ziele. Spätere ZIMT-Integration sicherstellen.
+
+
+## Engineering Legibility Protocol 1.0
+Verbindlich ergänzend zur Development Doctrine: [ELP 1.0](docs/ENGINEERING_LEGIBILITY_PROTOCOL.md). Bei jeder relevanten Änderung verständliche Verantwortlichkeiten, explizite Datenwirkungen und nachvollziehbare Übergaben sicherstellen. Bestehende Dokumente und Nachweise nutzen; konkrete Probleme in der kanonischen Queue priorisieren. Keine separate Aufräumphase, keine zusätzlichen pauschalen Gates; Doctrine 7.0 bleibt unverändert maßgeblich.
