@@ -1,7 +1,7 @@
 # ACTIVE SCOPE — ZIMT Lab 3
 
 ## Status: product brief pending
-No specific product or user interaction has been authorized in the accessible repository. **Do not invent a feature, Android minSdk, applicationId, renderer or persistence system.** Doctrine 5.0 applies immediately; technical choices remain undecided until the user supplies a product brief.
+No specific product or user interaction has been authorized in the accessible repository. **Do not invent a feature, Android minSdk, applicationId, renderer or persistence system.** Doctrine 7.0 applies immediately; technical choices remain undecided until the user supplies a product brief.
 
 ## Required product brief before feature code
 - One-sentence user outcome and the first delightful end-to-end interaction
