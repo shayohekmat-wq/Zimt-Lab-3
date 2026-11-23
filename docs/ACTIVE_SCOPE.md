@@ -19,3 +19,6 @@ No specific product or user interaction has been authorized in the accessible re
 5. Prototype and measure on real devices before claiming performance; no speculative universal library.
 
 This is a deliberate no-invention checkpoint, **not** a prohibition on future creative development.
+
+## Doctrine 7.0 — Scope und Akzeptanzabdeckung
+Die Queue in `docs/WORK_QUEUE.md` ist keine Erlaubnis, einen Produktbrief zu erfinden. AC-L3-001 bis AC-L3-003 sind mangels konkreter Produktentscheidung BLOCKED; unabhängig autorisierte READY-Arbeit trotzdem fortsetzen. Nach tatsächlicher Produktfreigabe den gesamten autorisierten Scope ohne numerische Obergrenze erfassen.
